@@ -1,14 +1,17 @@
 # Bilibili-ViewStatistic
 A py project about bilibili.
 
-#py program
+py program
 
 bili.py
 
-#statistic
+
+statistic
 
 bili-view
+bili.db（前10w视频的数据）
 
-#plugin file
+
+plugin file
 
 user-agents.txt
