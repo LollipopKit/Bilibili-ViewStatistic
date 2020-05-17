@@ -1,13 +1,14 @@
 # Bilibili-ViewStatistic
-A py project about bilibili.
+A py project about bilibili statistic using Regex.
 
+## main
+bili.py
 
-bili.py（主程序）
+## log
+bili-view
 
+## database 
+bili.db
 
-bili-view（胡乱玩）
-
-bili.db（数据文件，请使用SQLite编辑器打开）
-
-
-user-agents.txt（UA文件）
+## user-agent
+user-agents.txt
